@@ -1,6 +1,6 @@
 # Brian Crouse
 
-**`Code Artist (Full-Stack Developer)`**
+**`Full-Stack Developer`**
 
 ### Languages and Tools 🛠
 
