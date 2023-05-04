@@ -58,9 +58,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  <ul>
   <li>2010 - Learned <strong>Scratch</strong> in junior year of highschool.</li>
-  <li>2013 - Learned <strong>Python</strong> to automate Computer Aided Design (CAD) and Graphical Information Systems (GIS) workflows.</li>
-  <li>2014 - Learned <strong>C++</strong> for Intructory Programming (CIS116) at Jefferson Community College.</li>
-  <li>2019 - Learned <strong>HTML, CSS, JavaScript</strong> during <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> Full Stack Javascript course.</li>
+  <li>2013 - Learned <strong>Python</strong> in sophmore year to automate Computer Aided Design (CAD) and Graphical Information Systems (GIS) workflows.</li>
+  <li>2014 - Learned <strong>C++</strong> for Intructory Programming (CIS116) junior year at Jefferson Community College.</li>
+  <li>2019 - Learned <strong>HTML, CSS, JavaScript</strong> during <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> Full Stack Javascript course as a side project while in the Army.</li>
   <li>2022 - Earned <a href="https://www.linkedin.com/in/brian-crouse-swe/overlay/1635504905202/single-media-viewer?type=DOCUMENT&profileId=ACoAADGCorABObpSXWMco7PDoR5VXD3_v2MNibM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1eekoA%2B0RrWwbg%2BMWqyCtg%3D%3D" target="_blank">Certificate in Advanced Software Engineering from Hack Reactor (by Galvanize)</a>.</li>
   <li>2023 - Learning <strong>C</strong> during <a href="https://cs50.harvard.edu/x/2023/">Harvard's CS50</a>.</li>
  </ul>
