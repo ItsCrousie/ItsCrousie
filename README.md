@@ -57,6 +57,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  <ul>
+  <li>2006 - Introduced to automating data analysis though <strong>MSFT Excel</strong> while in Gymnasium (secondary school).
   <li>2010 - Learned <strong>Scratch</strong> in junior year of highschool.</li>
   <li>2013 - Learned <strong>Python</strong> in sophmore year to automate Computer Aided Design (CAD) and Graphical Information Systems (GIS) workflows.</li>
   <li>2014 - Learned <strong>C++</strong> for Intructory Programming (CIS116) junior year at Jefferson Community College.</li>
