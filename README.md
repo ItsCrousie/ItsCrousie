@@ -1,6 +1,7 @@
 # Brian Crouse 
-**`Software Engineer`**
-<br></br>
+**`Tech Connoisseur`**
+<br/>
+<br/>
 [![Gmail](https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:itscrousie@gmail.com)](mailto:itscrousie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-crouse-swe/)](https://www.linkedin.com/in/brian-crouse-swe/)
 
@@ -15,8 +16,8 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<br />
-<br />
+<br/>
+<br/>
 
 ### Libraries 📚 / Databases 🗃
 
@@ -26,9 +27,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
-
-<br />
-<br />
+<br/>
+<br/>
 
 ### Development Tools 🛠
 
