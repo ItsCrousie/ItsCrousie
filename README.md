@@ -1,5 +1,5 @@
 # Brian Crouse 
-**`Tech Connoisseur`**
+**`1s and 0s Creator`**
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)](https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)
@@ -8,13 +8,11 @@
 ### Languages ⌨
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <br/>
 <br/>
@@ -39,7 +37,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
 <br />
@@ -54,16 +51,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 #
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+ <h3>👨‍💻 My Coding Journey</h3>
  <ul>
   <li>2006 - Introduced to automating data analysis though <strong>MSFT Excel</strong> while in Gymnasium (secondary school).
-  <li>2010 - Learned <strong>Scratch</strong> in junior year of highschool.</li>
-  <li>2013 - Learned <strong>Python</strong> in sophomore year to automate Computer-Aided Design (CAD) and Graphical Information Systems (GIS) workflows.</li>
-  <li>2014 - Learned <strong>C++</strong> for Introductory Programming (CIS116) junior year at Jefferson Community College.</li>
-  <li>2019 - Learned <strong>HTML, CSS, JavaScript</strong> during <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> Full Stack Javascript course as a side project while in the Army.</li>
+  <li>2010 - Played with <strong>Scratch</strong> during 5th period in junior year of highschool.</li>
+  <li>2013 - Learned <strong>Python</strong> in sophomore year to automate Computer-Aided Design (CAD) and Graphical Information Systems (GIS) workflows in AutoDesk Software because I was too lazy to do the work by hand.</li>
+  <li>2014 - Struggled through <strong>C++</strong> for Introductory Programming (CIS116) junior year at Jefferson Community College.</li>
+  <li>2019 - Learned <strong>HTML, CSS, JavaScript</strong> during <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> Full Stack Javascript course as a side project while in the Army 2015-2021.</li>
   <li>2022 - Earned <a href="https://www.linkedin.com/in/brian-crouse-swe/overlay/1635504905202/single-media-viewer?type=DOCUMENT&profileId=ACoAADGCorABObpSXWMco7PDoR5VXD3_v2MNibM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1eekoA%2B0RrWwbg%2BMWqyCtg%3D%3D" target="_blank">Certificate in Advanced Software Engineering from Hack Reactor (by Galvanize)</a>.</li>
-  <li>2023 - Learning <strong>C</strong> during <a href="https://cs50.harvard.edu/x/2023/">Harvard's CS50</a>.</li>
-  <li>2024 - Learning <strong>Java</strong> in CSC-151 Java Programming at <a href="https://www.faytechcc.edu/">Fayetteville Technical Community College</a>.</li>
+  <li>2023 - Switched to <strong>Typescript</strong> in lieu of JS because type-safety is far better than getting lost in the JS Error Stack because it's completely bewildering.</li>
+  <li>2023 - Had David Malan attempt to convince me <strong>C</strong> is what I want to code in during <a href="https://cs50.harvard.edu/x/2023/">Harvard's CS50</a>.</li>
+  <li>2024 - Reluctantly wrote <strong>Java</strong> during CSC-151 Java Programming at <a href="https://www.faytechcc.edu/">Fayetteville Technical Community College</a>, then came around to it once I was out of the class because the compile time error stack trace is incredible.</li>
  </ul>
-</details>
+
