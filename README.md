@@ -1,5 +1,4 @@
 # Brian Crouse 
-**`1s and 0s Creator`**
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)](https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)
