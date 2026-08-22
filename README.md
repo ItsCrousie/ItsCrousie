@@ -1,9 +1,8 @@
 # Brian Crouse 
-**`Professional ideas to 1s and 0s translator`**
+**`Professional ideas to 1s and 0s converter`**
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)](https://mail.google.com/mail/u/0/?fs=1&to=itscrousie@gmail.com&tf=cm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-crouse-swe/)](https://www.linkedin.com/in/brian-crouse-swe/)
 
 ### Languages ⌨
 
